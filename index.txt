@@ -3,3 +3,6 @@ git pull buyrug'i uchun maxsus o'zgarishlar.
 git pull buyrug'i uchun maxsus o'zgarishlar.
 
 Qayumov Pahlavon!.
+
+
+git fetch buyrug'i uchun o'zgarishlar.
